@@ -1,5 +1,9 @@
+<div id="title" align=center>
+
 # Open531
 
-![open531](../github-metrics.svg)
+Open531 is an organization of undergraduates who are interested in Electronic Engineering.
 
-Open531 is an organization of undergraduates who are interested in Electronic Engineering and Computer Science.
+![Open531](/github-metrics.svg)
+
+</div>
